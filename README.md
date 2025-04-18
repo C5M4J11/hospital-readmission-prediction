@@ -6,7 +6,7 @@ This project aims to refine and customize an existing predictive model for hospi
 ## **Objectives**
 - Extend and refine the original model for academic research and learning.
 - Emphasize specific predictors relevant to diaetic patient care.
-- Document findings and progress throughout the development phase.
+- Document findings and progress throughout the development phase. -Jean (C5M4J11)
 
 # **Hospital Readmission Prediction**  
 
