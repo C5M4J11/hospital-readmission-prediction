@@ -8,6 +8,18 @@ This project aims to refine and customize an existing predictive model for hospi
 - Emphasize specific predictors relevant to diaetic patient care.
 - Document findings and progress throughout the development phase.
 
+## **Project Roadmap**
+
+- [x] Define project goal and scope     
+- [x] Fork and clone an existing related GitHub repository  
+- [x] Add project teammate to GitHub repo with appropriate access rights  
+- [x] Review and document findings from the existing codebase   
+- [x] Edit the README.md with updated project information  
+- [x] Create and commit this projectroadmap.md file to the repo
+- [x] Run existing Jupyter notebooks successfully
+- [ ] Identify key features/columns from the dataset
+
+
 # **Hospital Readmission Prediction**  
 
 ## **Overview**  
